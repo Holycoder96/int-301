@@ -5,6 +5,8 @@ QUESTION-7, php form and database.
 
 2. Index.php // another html page for redirection.
 
+3. Create a database name it "int-301" the import the "database_file.sql"
+
 In includes folder.
 
 
