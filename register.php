@@ -26,7 +26,7 @@
 			<h2>Question-7, click to get the details in descending order of name</h2>
 			
 
-			<button type="submit" name="loginButton">loginButton</button>
+			<button type="submit" name="loginButton">fetchDetails</button>
 			
 		</form>
 
