@@ -1,4 +1,5 @@
-# int-301
+# PHP form woth sql database
+
 QUESTION-7, php form and database.
 
 1. register.php // for registering details and information, basic php html form.
