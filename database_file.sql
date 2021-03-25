@@ -41,8 +41,8 @@ CREATE TABLE `users` (
 --
 
 INSERT INTO `users` (`ID`, `uID`, `firstName`, `lastName`, `email`) VALUES
-(8, '11', 'Sunny', 'Sengar', 'Sunnysengar16@gmail.com'),
-(9, '12', 'Yunnt', 'Sengar', 'Sunnysengar16@gmail.com');
+(8, '11', 'Sunny', 'Sengar', 'vbart16@gmail.com'),
+(9, '12', 'Yunnt', 'Sengar', 'vbart16@gmail.com');
 
 --
 -- Indexes for dumped tables
